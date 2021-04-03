@@ -1,0 +1,214 @@
+body {
+	background-color: #C1D8D1; 
+	color: black;
+	font-size: 25px; 
+	font-weight: lighter;
+	font-family: 'Big Shoulders Display', cursive;
+	font-weight: 500 
+}
+
+
+*, :after,:before{
+  box-sizing: border-box;
+}
+
+h1 {
+	color: #C8AF97;
+	font-family: 'Caveat', cursive;
+	font-weight: 600;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	color: #C8AF97;
+	font-weight: 800;
+}
+
+h3 {
+	color: #597872; 
+	font-weight: 550;
+}
+
+a {
+	text-decoration: none;
+	color: white; 
+}
+
+
+#Nada {
+	width: 200px; 
+	border-radius: 50%;
+	border: 2px dotted #6F847E;
+	box-shadow:  4px 5px 3px #C8AF97;
+}
+
+@media (max-width: 650px) {
+	.container {
+		width: 500px; 
+	}
+}
+
+@media (max-width: 300px) {
+	.container {
+		width: 250px; 
+	}
+}
+
+
+@media (max-width: 100px) {
+	.container {
+		width: 80px; 
+	}
+}
+
+.container {
+	width: 700px; 
+	margin: 50px auto;
+	width: 100%; 
+	width: 65%; 
+	background-color: #D5DFDC;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+#lang {
+	width: 90px; 
+	margin: 5px auto;
+	background-color: none; 
+	border-radius: 20%;
+	text-align: center;
+	margin-right: 0px;
+	display: inline;
+}
+
+
+
+ #Nada {
+	width: 200px; 
+	border-radius: 50%;
+	border: 2px dotted #6F847E;
+	box-shadow:  4px 5px 3px #C8AF97;
+}
+
+.btn-gold {
+	background-color: #C8AF97; 
+	color: white; 
+	padding: 15px 20px; 
+	margin: 40px 20px; 
+	border-radius: 6px;
+	align-self: center; 
+}
+
+#btn-gold a:hover {
+	color: black; 
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px; 
+}
+
+.list-inline li {
+	display: inline;
+	padding: 2px; 
+}
+
+.list-inline i {
+	font-size: 30px; 
+}
+
+.list-inline i:hover {
+	color: #597872;
+}
+
+.intro p {
+	margin-bottom: 50px; 
+}
+
+#intro2 li {
+	margin-bottom: 50px; 
+}
+
+.colored1 {
+	color: #737373;
+}
+
+.colored2 {
+	color: #597872;
+}
+
+#COMPETENCES li {
+	text-align: left;
+}
+
+#CENTRES li {
+	text-align: center; 
+}
+
+#LANGUES li {
+	text-align: left;
+
+}
+
+#card li {
+	display: inline;
+	justify-content: space-between;
+	text-align: left;
+	flex-basis: 100px; 
+}
+
+.grp {
+	margin: 40px 25px;
+    width: 700px;
+    background-color: #C1D8D1;
+    padding: 60px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+#btn-trad a:hover {
+	color: #597872;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Color and fonts */
+/* Custom design with class */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
